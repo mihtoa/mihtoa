@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Milene 👁👄👁</h1>
-<h3 align="center">Frontend Developer from Brazil</h3>
+<h1>Hi, I'm Milene 👁👄👁</h1>
+<h3>Frontend Developer from Brazil</h3>
 
 - 📄 Know about my experiences in my [LinkedIn](https://www.linkedin.com/in/mihtoa/)
 
